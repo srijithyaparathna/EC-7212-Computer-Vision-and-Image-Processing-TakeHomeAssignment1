@@ -4,7 +4,7 @@
 ###  Author: Yaparathna Y.M.S.K  
 ###  Repository Contents:
 
-- `assignment1.ipynb` — Jupyter Notebook version with explanations.
+- `assignment.ipynb` — Jupyter Notebook version with explanations.
 - `input.jpg` — Input image.
 - `output/` — Folder for processed images.
 
